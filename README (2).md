@@ -16,7 +16,7 @@ Before an AI tool is launched to the public, it must be tested for safety. An "u
 This project performs a **Red Teaming exercise** across 4 leading AI models to:
 - Attempt to **jailbreak** models using advanced prompting techniques
 - Test for **gender and racial bias** in text and image generation
-- Document all findings professionally
+- Document all findings professionally 
 - Propose a **Safety Framework (Guardrails)** to prevent these issues
 
 ---
